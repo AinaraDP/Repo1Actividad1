@@ -16,5 +16,7 @@ local.properties
 # Java annotation processor (APT)
 .factorypath
 
-
+### Java ###
+# Compiled class file
+*.class
 
