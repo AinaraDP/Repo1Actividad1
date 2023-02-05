@@ -9,6 +9,7 @@ public class Ainara {
 
 	  public void imprimirNombre() {
 	    System.out.println("Hola, soy " + this.nombre);
+	    System.out.println("Mis hobbies son : Leer, tocar el piano y correr");
 	  }
 
 	  public static void main(String[] args) {
