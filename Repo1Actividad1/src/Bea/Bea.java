@@ -15,6 +15,15 @@ public class Bea {
 		  public static void main(String[] args) {
 		    Bea obj = new Bea("Bea");
 		    obj.imprimirNombre();
+		    
+		   System.out.println("Mis hobbies son viajar, bailar y cualquier actividad que implique estar con animales"); 
+		    
+		    
 		  }
-		}
+		
+         
+          
+
+
+}
 
