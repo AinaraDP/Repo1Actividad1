@@ -17,7 +17,7 @@ public class Bea {
 		    obj.imprimirNombre();
 		    
 		   System.out.println("Mis hobbies son viajar, bailar y cualquier actividad que implique estar con animales"); 
-		    
+		   System.out.println("Mi comida favorita es la lasaña"); 
 		    
 		  }
 		
