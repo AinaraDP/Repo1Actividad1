@@ -10,7 +10,6 @@ public class Eric {
 	  public void imprimirNombre() {
 	    System.out.println("Hola, soy " + this.nombre);
 	    System.out.println("Mis hobbies: leer comics, hacer ejercicio y ver peliculas");
-	    System.out.println("Mis comidas favoritas son: Brocoli, calabacín y lechuga");
 	  }
 
 	  
